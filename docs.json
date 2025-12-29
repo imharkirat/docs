@@ -19,7 +19,8 @@
               "index",
               "quickstart",
               "development",
-              "mint/test.mdx"
+              "mint/test.mdx",
+              "mint/about-mint.mdx"
             ]
           },
           {
